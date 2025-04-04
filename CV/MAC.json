@@ -1,0 +1,1427 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Ander",
+      "surnames": "Conal",
+      "title": "Remote Software Engineer | Leadership, Growth & Technical Strategy",
+      "description": "I enjoy solving problems—kind of like the Wolf from Pulp Fiction. When something’s broken, I’m the guy who steps in, figures it out, and makes it work, no matter the challenge.\n\nI'm currently deciding whether to focus more on management or return to a more technical role. Over time, I've naturally taken on more leadership roles—building teams, defining the technical vision, and setting strategy—but I still enjoy getting hands-on with technical tasks.\n\nThe balance between leadership and technical work has changed over time. Some days it’s 40/60, other times 0/100 or 20/80, depending on the company’s needs, the team's needs and the product. I see it as a strength—different situations require different levels of involvement.\n\nI value flexibility, async communication, and remote work. I value results, not hours. Becoming a father has made these things even more important.\n\nI enjoy working with people who value Agile, DevOps, or XP and where I can keep learning.\n\nI've been into AI and remote work for years, even before they were popular. When it comes to AI, I’m ready to contribute in areas like management, operations, or a mix of both, helping drive strategy and impact.\n\nI’m a product-driven software engineer ⚡, with experience across the entire product lifecycle.\n\n✔ Generalist? Yes ☝—I handle everything from gathering requirements, brainstorming, and planning to architecture, coding, deployment, and monitoring. In short, the full product lifecycle.\n\n✔ Specialist? Also ✌—I have deep expertise in Frontend, but I’m also comfortable with Backend, Cloud infrastructure, and CI/CD pipelines to make sure everything works smoothly.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/17/40e98ec9-961e-48f5-a0a1-58c675174057_ander.jpg",
+        "alt": "ander.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJDwQwm448Tw0Ru7ukzqIBEKI)",
+        "country": "España",
+        "region": "Castilla y León",
+        "municipality": "Medina de Pomar"
+      }
+    },
+    "interestingFacts": [
+      {
+        "topic": "Autonomic Olympic Boxing Trainer",
+        "fact": "I am an Autonomic Olympic Boxing Trainer and I practice this sport a couple of times a week. I also help people who need it in the whole process of learning boxing, from initiation to competition"
+      },
+      {
+        "topic": "Deejay, event organizer and music producer",
+        "fact": "I have been a deejay, event organizer and music producer for more than 10 years, thanks to which I have been able to travel much of our geography along the way and I have treated and managed people of many profiles, obtaining positive results and personal satisfaction ☺ To this day I still dust off my vinyls from time to time."
+      },
+      {
+        "topic": "Nintendo",
+        "fact": "I play Nintendo Wii, Wii U and Switch whenever I have some time. Zelda, Mario..."
+      },
+      {
+        "topic": "Beautiful and quiet places",
+        "fact": "My biggest passions are my girlfriend (more than 15 years of relationship!), my dogs, my son, my family and my friends. I love to walk with them on beautiful and quiet places (empty beaches, mountain...)."
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/anderconal/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/anderconal"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/anderconal"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Plain Concepts",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/20/201c84d9-7ff2-4e67-8821-31ff273a1fa1_plain.jpg",
+            "alt": "plain.jpg"
+          },
+          "URL": "https://www.plainconcepts.com/"
+        },
+        "roles": [
+          {
+            "name": "Software Engineering Manager (Remote)",
+            "startDate": "2022-02-01",
+            "challenges": [
+              {
+                "description": "💥 About Plain Concepts\n\nGlobal IT professional services company founded in 2006, focused on creating innovative, sustainable, and responsible technological solutions. Innovation with the latest market technologies, digitally transforming each industry, solving the complex challenges of each client, and collaborating agilely with our teams of experts.\n\nOver the past years, I have led six different teams, ranging from 2 to 15 members, covering Frontend, Backend, Cloud, QA, UX/UI, AI, and Data.\n\n⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️\n\n💥 Team Leadership & Development 💥\n\n🗣️ **Career Growth & Mentorship** → Helped engineers and managers progress to higher levels, guiding them through promotions and salary increases.\n\n👨‍👩‍👧‍👦 **Building Autonomous Teams** → Built a team from scratch, from hiring to full operational independence, requiring minimal management involvement in < 1 year.\n\n🗨️ **Structured Feedback Culture** → Introduced SBI and Feedback Wrap methodologies, enabling teams to adopt feedback autonomously.\n\n⚖️ **Conflict Resolution** → Applied Third Story & Root Cause Analysis to key issues.\n\n🤝 **Client Engagement & Retention** → Strengthened long-term relationships, contributing to securing six-figure contracts.\n\n⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️\n\n💥 Organizational Impact & Strategic Initiatives 💥\n\n👟 **Led the training of all Engineering Managers**, establishing leadership best practices across the organization.\n\n📚 **Collaborated on the Engineering Handbook**, defining guidelines for methodology, culture, and processes.\n\n🌍 **Standardized** 1-on-1s, performance reviews, onboarding and offboarding guides and career growth frameworks, ensuring alignment across teams.\n\n⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️\n\n💥 Optimizing Delivery & Productivity 💥\n\n🤖 **Led the GitHub Copilot pilot experiment**, evaluating its adoption and use cases at a global scale.\n\n📈 **Worked on improving** development workflows, identifying bottlenecks and enhancing delivery efficiency. Removed blockers, improving delivery by 41.7%.\n\n✅ **Helped optimize** CI/CD pipelines, streamlining deployment processes and reducing lead times. Cut pipeline times 50-80% (from 45 to 10-15 min).\n\n💵 Actively collaborated with **Sales teams**, aligning technical teams with business priorities and client expectations.\n\n👨🏻‍💻 Facilitated **strategic discussions** between stakeholders to ensure **business needs drive technical execution**.\n\n⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️\n\n💥 Key Projects & Technical Challenges 💥\n\n⚖️ **LegalTech** → AI-powered legal analysis tools and pension simulators.\n\n☁️ **Cloud Infrastructure** → Governance frameworks for Azure environments, ensuring security and compliance.\n\n💹 **Marketing & Advertising** → Budget tracking and campaign management solutions.\n\n📲 **IoT & Smart Devices** → Software for connected waste management systems and enterprise printers.\n\n💬 **AI Chatbots** (Pharma) → AI-driven agents for sales enablement & drug research.\n\n⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️\n\n💥 Technical Challenges Managed 💥\n\n💰 **Cloud Cost Optimization** → Migrated workloads from Windows to Linux, reducing operational costs.\n\n🚀 **CI/CD & Deployment Optimization** → Helped eliminate pipeline inefficiencies, accelerating release cycles.\n\n💻 **Process Monitoring & Automation** → Improved system observability and proactive issue resolution.\n\n🧑🏻‍💻 **Architecture & Code Reviews** → Collaborated on architecture & code reviews, ensuring maintainable and scalable designs.\n\n🧪 **Testing Strategy** → Worked on testing strategy, advocating for test automation and DevOps efficiency.\n\n🤖 **Productivity** → Explored AI & Developer Productivity, evaluating tools to enhance team efficiency.\n\n⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️\n\n💥 Technology & Engineering Leadership 💥\n\n💡 Adapted focus based on company, team and product needs:\n\n✅ **50% Engineering / 50% Management** → Hands-on involvement in technical execution.\n\n✅ **80%+ Management** → Focus on strategy, leadership, and process optimization.\n\n🤝 Collaboration & Cross-Functional Leadership:\n\n✅ **Internal** → Worked closely with Directors, VP, C-Level, Sales, and HR.\n\n✅ **Clients** → Engaged with Product Owners, Architects, and Engineering Managers to align business and technical goals.\n\n✅ Day-to-day stakeholder alignment, ensuring smooth collaboration between engineering and business teams.\n\n⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️\n\n💥 Why I Returned to Plain Concepts\n\nAfter my time at Comalatech, I realized that what I truly needed at that moment was immediate leadership responsibilities and a more stable financial situation—especially given the personal changes I was going through (buying a house, expecting my first child). Plain Concepts had always been a company I deeply aligned with, as I had grown and learned a lot there before. When the opportunity arose to return in a role that offered both management responsibilities and better compensation, it felt like the right move for my career and personal circumstances.\n\n💥 Key Takeaway: Returned to step into a management role, gain immediate leadership experience, and work in an environment where I had previously thrived and felt aligned with the company’s culture."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": ".Net Core",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "Jetbrains",
+                "type": "technology"
+              },
+              {
+                "name": "NPM",
+                "type": "technology"
+              },
+              {
+                "name": "Playwright",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "RxJS",
+                "type": "technology"
+              },
+              {
+                "name": "Stencil.js",
+                "type": "technology"
+              },
+              {
+                "name": "TestingLibrary",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "WebComponents",
+                "type": "technology"
+              },
+              {
+                "name": "Yarn",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Comalatech (Now Part of Appfire)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/20/f4c534ac-9efd-48ab-a231-27c4c31ade0e_comala.jpg",
+            "alt": "comala.jpg"
+          },
+          "URL": "https://www.youtube.com/watch?v=nzEMD2vo9jE"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer (Remote)",
+            "startDate": "2021-06-01",
+            "finishDate": "2022-02-01",
+            "challenges": [
+              {
+                "description": "💥 About Comalatech (Now Part of Appfire)\n\nA Canadian software company specializing in developing **collaboration tools within the Atlassian ecosystem**. They offer applications for **Confluence and Jira**, enhancing content creation, review, and publishing workflows for businesses. In 2022, Comalatech was acquired by Appfire, expanding their reach in the document management domain.\n\n💥 Key Responsibilities & Achievements 💥\n\n📄 Worked on **Comala Document Management (6,000+ installs on Atlassian Marketplace)**, contributing to **frontend and backend development** of cloud-based workflow automation tools.  \n\n🧪 Designed and implemented **End-to-End (E2E) and unit testing strategies** for Cloud products, ensuring that the most critical features and workflows were rigorously tested for reliability and stability in mission-critical enterprise tools. \n\n🐞 **Investigated, analyzed, and resolved complex bugs** in **Node.js, Express.js, AWS, React.js, Redux** applications, improving product reliability.  \n\n☁️ **Focused on Cloud-first challenges**, including Serverless architectures, distributed queues, and large-scale data migrations.  \n\n👟 Conducted **mentorship & training sessions**, introducing **TypeScript, refactoring best practices, and test automation**.  \n\n🗨️ Advocated for **async-first communication**, optimizing remote collaboration across Spain, Mexico, and Canada.\n\n💥 Why a Short Tenure?\n\nI expected to grow into a leadership role and improve my compensation over time, but my personal situation—buying a house, expecting my first child—demanded stability and immediate growth opportunities. While I valued the product-driven environment and user impact, The role had technical challenges, but I was used to a higher pace and complexity. Adjusting took time, and I sought more opportunities to push my limits.\n\n💥 Key Takeaway: Gained experience in product culture, remote work, serverless architectures (AWS), and user-facing development. Despite my short tenure, it was a valuable learning experience, and leaving was a difficult decision."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Bamboo",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "Enzyme",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "Jetbrains",
+                "type": "technology"
+              },
+              {
+                "name": "NPM",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "TestingLibrary",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Plain Concepts",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/20/ef73219c-c7ab-4018-b6c6-74b4fcd2d4d5_plain.jpg",
+            "alt": "plain.jpg"
+          },
+          "URL": "https://www.plainconcepts.com/"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer (Hybrid → Remote)",
+            "startDate": "2018-01-01",
+            "finishDate": "2021-05-01",
+            "challenges": [
+              {
+                "description": "💥 About Plain Concepts\n\n**Global IT professional services company** founded in 2006, focused on creating innovative, sustainable, and responsible technological solutions. Innovation with the latest market technologies, digitally transforming each industry, solving the complex challenges of each client, and collaborating agilely with our teams of experts.\n\nDuring my time at **Plain Concepts**, I worked on multiple projects as a **Software Engineer (Hybrid → Remote)**, focusing on **industrial platforms, automation, and healthcare software**.\n\n⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️\n\n💥 Asset & Maintenance Management Platform (Industry & Energy)  💥\n\n👷🏻‍♂️ **Developed a maintenance management platform** used by **2,000+ clients and 200,000+ users worldwide**, improving asset management efficiency across **infrastructure, transportation, and energy sectors**.  \n\n👨🏻‍💻 **Built a framework for dynamic user interfaces**, enabling UI generation without manual coding, significantly reducing development time and ensuring consistency across internal applications.  \n\n🔑 **Implemented a license generation and management system**, enhancing user access control and security across the platform.  \n\n🖥 **Technologies**: JavaScript (Vue.js, jQuery, Jasmine, Karma), C# (.NET Framework, MSTest), SQL Server, CSS.\n\n⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️\n\n💥 Human-Machine Interface (HMI) & Robotics (Healthcare & Pharmaceutical Industry) 💥\n\n🤖 **Developed HMI for Robotic IV Compounding Systems:** Contributed to the design and implementation of Human-Machine Interfaces for robotic systems used in hospital pharmacies to prepare **sterile and hazardous drug compounds**. These systems **automate IV medication preparation**, ensuring **precision, safety, and compliance with international pharmaceutical regulations (ISO, GMP, USP <797>/<800>)**.\n\n⚕️**Ensured Compliance with Pharmaceutical Standards:** Worked on systems adhering to **stringent pharmaceutical regulations**, integrating **syringe and vial recognition** to maintain compounding precision and patient safety.\n\n🔐 **Integrated Advanced Safety Features:** Designed **photographic and barcode identification systems**, along with **gravimetric measurements**, to verify correct ingredients and accurate final doses, reducing human errors.\n\n👩🏻‍⚕️ **Streamlined Pharmacy Workflow:** Automated the preparation of **50+ validated drugs** in various infusion bags and syringes, improving efficiency and allowing pharmacists to focus more on patient care.\n\n🖥️ **Developed System Installers and Local Logging:** Built **desktop installers** for seamless deployment in hospital settings and **fully local logging systems** to securely store critical event data, ensuring compliance and aiding in troubleshooting without reliance on external servers.\n\n🥼 **Enhanced User Experience for Medical Staff:** Created **intuitive user interfaces** tailored for healthcare professionals, reducing training time and improving adoption of complex robotic systems.\n\n💉 **Implemented Real-Time Monitoring Dashboards:** Designed dashboards providing **live tracking of medication preparation**, quality control metrics, and batch traceability, enhancing decision-making and workflow efficiency.\n\n🚥 **Added Multicolor LED Indicators for Status Display:** Integrated **multicolor LED systems** to provide immediate visual feedback on the operational status of robotic units, enhancing situational awareness for staff and reducing response times to potential issues.\n\n🖥 **Technologies**: TypeScript (Angular), C# (.NET Framework, Entity Framework, xUnit), SQL Server, CSS.\n\n⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️\n\n💥 Digital Health Platform (Healthcare Industry) 💥\n\n🧑‍⚕️🖥️ **Development and Integration**: Collaborated on developing and integrating **telehealth functionalities**, enabling medical practices to provide remote consultations and improve patient access to healthcare services.​\n\n🩺 **User Interface Enhancement**: Worked on enhancing the user interface to ensure a seamless experience for both **healthcare providers and patients**, facilitating efficient navigation and utilization of the platform's features.\n\n🖥 **Technologies**: JavaScript (AngularJS), C# (.NET Framework, Entity Framework, xUnit), SQL Server, CSS.\n\n⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️\n\n💥 Research & Development in Mobile Technologies  💥\n\n📱 **Evaluated frameworks like Ionic, Capacitor, and React Native**, analyzing their **compatibility with native APIs**.  \n\n📊 **Conducted comparative testing** to measure **resource consumption, load times, user experience, developer experience and community adoption** across different mobile platforms.  \n\n📝 **Produced technical reports and strategic recommendations**, enabling informed decision-making regarding mobile technology adoption for future projects.  \n\n🖥 **Technologies**: TypeScript (Ionic, Capacitor, React Native, Jest, Testing Library, Cypress).\n\n⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️\n\n💥 Transitioned from **hybrid to fully remote**, actively **applying async-first principles** to improve collaboration and optimize workflows for distributed teams."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": ".Net Core",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Capacitor",
+                "type": "technology"
+              },
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Gatsby",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "Jamstack",
+                "type": "technology"
+              },
+              {
+                "name": "Jasmine",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "Jetbrains",
+                "type": "technology"
+              },
+              {
+                "name": "Karma",
+                "type": "technology"
+              },
+              {
+                "name": "Less CSS",
+                "type": "technology"
+              },
+              {
+                "name": "NPM",
+                "type": "technology"
+              },
+              {
+                "name": "PostCSS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "React Native",
+                "type": "technology"
+              },
+              {
+                "name": "RxJS",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "TestingLibrary",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Obytes",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/20/fc90eb36-1576-49f7-b101-769cdbf3e5b2_obytes.jpg",
+            "alt": "obytes.jpg"
+          },
+          "URL": "https://www.obytes.com/"
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer - Independent Contractor (Remote)",
+            "startDate": "2017-08-01",
+            "finishDate": "2018-01-01",
+            "challenges": [
+              {
+                "description": "💥 About Obytes\n\nObytes is a **technology consulting company** specializing in web, mobile, and cloud solutions. They **help startups and enterprises build scalable digital products**, offering services in product strategy, UX/UI design, development, and DevOps.\n\nAs fully **remote** Frontend Developer and **Independent Contractor** I work with people from all over the world (New York, Morocco, Kuwait, Sweden, Spain...). \n\n💥 Key Responsibilities & Achievements 💥\n\n🐣 **Collaborated with early-stage startups**, providing **technical expertise** to transform innovative ideas into **scalable web applications**.\n\n👨🏻‍💻 **Developed full-stack solutions**, ensuring seamless integration between **frontend and backend systems**.\n\n🗣️ **Engaged in product strategy discussions**, offering insights on **UX/UI design**, **cloud computing**, and **roadmap planning** to align with client visions.\n\n💥 Why a Short Tenure? 💥\n\nThis was my first remote, fully autonomous position and my first contractor experience. I worked directly with C-level executives and gained React.js experience in a startup environment. However, I realized I was **too early in my career for such an independent role** —I needed to learn from others, collaborate closely, and grow before returning to this level of autonomy.\n\n💥 Key Takeaway: First remote & contractor experience, first direct exposure to C-levels, first time with this level of autonomy."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "CircleCI",
+                "type": "technology"
+              },
+              {
+                "name": "Enzyme",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PostCSS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              },
+              {
+                "name": "Webpack",
+                "type": "technology"
+              },
+              {
+                "name": "Yarn",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "The Lobby",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/20/d8a7c444-4b5b-44b7-8f87-901e594c9a05_thelobby.jpg",
+            "alt": "thelobby.jpg"
+          },
+          "URL": "https://www.linkedin.com/company/thelobby/"
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer - Independent Contractor (Remote)",
+            "startDate": "2017-08-01",
+            "finishDate": "2018-01-01",
+            "challenges": [
+              {
+                "description": "💥 About The Lobby  \n\nThe Lobby was an **early-stage startup** backed by **$1.2M in seed funding**, aiming to democratize access to top finance jobs by connecting job seekers with finance professionals for **coaching, referrals, and career insights**.\n\nI work on The Lobby as fully remote Frontend Developer Independent Contractor. The Lobby is a New York based company.\n\n💥 Key Responsibilities & Achievements 💥\n\n🤝 **Developed a career coaching and job referral platform**, connecting job seekers with finance professionals for **mock interviews, resume reviews, and career insights**.\n\n👤 **Built the frontend and user interface**, enhancing user engagement and facilitating seamless interactions between candidates and industry insiders.\n\n🔎 **Implemented server-side rendering (SSR)** to improve **SEO performance and initial load time**, optimizing discoverability.\n\n🐍 **Integrated RESTful APIs built with Python (Django)** to manage user authentication, session handling, and profile data.\n\n🚀 **Contributed to setting up CI/CD pipelines**, automating testing and deployments.\n\n💥 Why a Short Tenure? 💥\n\nThis was my first remote, fully autonomous position and my first contractor experience. I worked directly with C-level executives and gained React.js experience in a startup environment. However, I realized I was **too early in my career for such an independent role** —I needed to learn from others, collaborate closely, and grow before returning to this level of autonomy.\n\n💥 Key Takeaway: First remote & contractor experience, first direct exposure to C-levels, first time with this level of autonomy."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "CircleCI",
+                "type": "technology"
+              },
+              {
+                "name": "Enzyme",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PostCSS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              },
+              {
+                "name": "Webpack",
+                "type": "technology"
+              },
+              {
+                "name": "Yarn",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Jinn",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/20/309af2ec-c116-4b3b-8bb2-d57b55202eec_jinn.jpg",
+            "alt": "jinn.jpg"
+          },
+          "URL": "https://www.linkedin.com/company/ridee/"
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer (On-Site)",
+            "startDate": "2016-09-01",
+            "finishDate": "2017-07-01",
+            "challenges": [
+              {
+                "description": "💥 About Jinn  \n\nJinn was a **London-based on-demand delivery startup** founded in 2014, offering customers the convenience of ordering from local restaurants and stores with delivery times averaging around **30 minutes**. At its peak, Jinn expanded operations to multiple UK cities and completed **over a million deliveries** for more than **100,000 customers**. Despite its initial success and **raising ~$19M in funding**, Jinn faced intense competition and ceased operations in October 2017.  \n\n💥 Key Responsibilities & Achievements 💥\n\n🛵 **Frontend Development**: Developed and maintained the frontend for Jinn, a Deliveroo/UberEats-like app, handling 50,000+ orders per month, 500+ drivers, and 500+ stores across London and other cities.\n\n📈 **Performance Optimization**: **Collaborated with the Backend team** to ensure that **Frontend performance** was optimized alongside backend improvements, improving **UI responsiveness** under high traffic conditions.  \n\n⌚ **Feature Development**: Helped design and implement **real-time order tracking** and **dynamic delivery ETAs**, enhancing the user experience.  \n\n🧪 **Testing & Code Quality**: Wrote and improved **unit and integration tests**, strengthening frontend reliability and preventing regressions.  \n\n👨‍👩‍👧‍👦 **Cross-Functional Collaboration**: Worked closely with **designers, backend engineers, and product teams** to create a **consistent and scalable UI** aligned with business goals."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Grunt",
+                "type": "technology"
+              },
+              {
+                "name": "Gulp.JS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Jasmine",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Karma",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Mongoose",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Pictel",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/20/9a9735a9-04b1-401f-a7f1-3d0fb6232054_pictel.jpg",
+            "alt": "pictel.jpg"
+          },
+          "URL": "https://www.linkedin.com/company/pictelium-s-l-/"
+        },
+        "roles": [
+          {
+            "name": "Software Developer (On-Site)",
+            "startDate": "2015-07-01",
+            "finishDate": "2016-08-01",
+            "challenges": [
+              {
+                "description": "💥 About Pictel\n\nPictel was a Spanish company and an **official Movistar distributor**. Established in 2006, it specialized in the sale of **mobile telephony products and services**, catering to both **individual and business clients**. With a network of **39 retail stores**, a dedicated business sales team, and a call center, Pictel ensured comprehensive customer support and service.\n\n💥 Key Responsibilities & Achievements 💥\n\n💁🏻‍♂️ **Department Leadership**: Spearheaded the establishment and growth of the newly formed Web Development Department, setting strategic direction and ensuring alignment with company objectives.\n\n👨🏻‍💼 **Project Management**: Oversaw end-to-end project lifecycles, from requirements analysis to deployment, ensuring timely delivery and client satisfaction.\n    \n👨🏻‍💻 **Technical Expertise**: Delivered tailored solutions, including:\n\n✅ **WordPress Development**: Crafted custom themes and plugins to meet diverse client needs.\n\n✅ **Custom Software Development**: Engineered bespoke applications to address unique business challenges.\n\n✅ **Frontend Development**: Utilized technologies such as CSS3, Twitter Bootstrap, and SASS to create responsive and visually appealing interfaces.\n\n🔎 **SEO Optimization**: Implemented strategies focusing on Web Performance Optimization (WPO), meta tags, and structural code enhancements to boost search engine rankings.\n    \n👟 **Training & Mentorship**: Conducted training sessions on Requirements Analysis and Web Development, fostering skill development within the team.\n    \n🤝 **Cross-Functional Coordination**: Worked closely with various departments, including design, marketing, and IT, to ensure cohesive project execution.\n    \n👨‍👩‍👧‍👦 **Client Engagement**: Maintained direct communication with clients, providing updates and gathering feedback to ensure their vision was realized."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Frontend Technical Challenge – Best Practices & Architecture 🚀",
+          "description": "This repository showcases a technical interview challenge, focusing on clean architecture, best practices, and documentation in frontend development.\n\n🔹 Built with: Vanilla JavaScript + TypeScript\n🔹 Web Components without frameworks\n🔹 Testing & Dependency Injection for maintainability\n🔹 Scalable architecture & clear documentation\n\nA practical example of how to structure a modern frontend project with best practices in mind.",
+          "URL": "https://gitlab.com/anderconal/taxi-dashboard"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2024-09-01",
+            "competences": [
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "VanillaJS",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2024-09-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "testing-library-101-ts-workshop",
+          "URL": "https://github.com/anderconal/testing-library-101-ts-workshop"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-04-01",
+            "competences": [
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "Enzyme",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "TestingLibrary",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "testing-library-101-workshop",
+          "URL": "https://github.com/anderconal/testing-library-101-workshop"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-03-01"
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Management en proyectos de Web / IA / Data | PRE Hola Mundo day ",
+          "description": "Management en proyectos de Web / IA / Data. Con Sara San Luís y Ander Conal de Plain Concepts.\n\nEvento previo a la celebración del \"Hola Mundo day\", la conferencia de programación creada por y para la comunidad.\n🔗  https://holamundo.day",
+          "URL": "https://www.youtube.com/watch?v=rbgtpksll2A",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/20/758dcdd0-0936-46ed-80e2-a1f2174bd56b_manager.jpg",
+            "alt": "MANAGER.jpg"
+          }
+        },
+        "type": "video",
+        "publishingDate": "2023-05-01"
+      },
+      {
+        "details": {
+          "name": "First time officially in the Management Path"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-02-01"
+      },
+      {
+        "details": {
+          "name": " ¿Scrum, Kanban, Pikachu o Squirtle? What the agile? ",
+          "description": "En esta sesión veremos las principales diferencias entre Scrum, Kanban y otras metodologías. Además, aprenderemos a elegir una, ambas o ninguna de ellas. ",
+          "URL": "https://www.youtube.com/watch?v=iDm33VJeik4",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/20/fe3b9c3c-a422-4c75-ac43-9e6ff71ccb5a_scrum.jpg",
+            "alt": "scrum.jpg"
+          }
+        },
+        "type": "video",
+        "publishingDate": "2020-08-01"
+      },
+      {
+        "details": {
+          "name": "Pair Programming: The force awakens ",
+          "description": "Have you ever heard of pair programming? Find out everything you need to know about this popular software development technique. During this session we talk about:\n\n- What is Pair Programming?\n- Pair Programming styles\n- The (numerous) benefits of Pair Programming\n- The (dangerous) dangers of Pair Programming\n- Pair Programming in the recruitment process\n- Conclusions (hopefully with the ark found, the force awakened, the Adventure of Height lived or with the demonstration made that the union makes the force).\n\n🧑 Speaker\nAnder Conal | Software Developer at Plain Concepts\n\nContact us!\n📧 info@plainconcepts.com\n🌐 www.plainconcepts.com",
+          "URL": "https://www.youtube.com/watch?v=S9Ar4wcS5CE",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/20/5b32ab98-e9b8-4c68-a02d-5681d1981ad8_pair-en.jpg",
+            "alt": "pair-en.jpg"
+          }
+        },
+        "type": "video",
+        "publishingDate": "2020-08-01"
+      },
+      {
+        "details": {
+          "name": " Pair Programming: El despertar de la fuerza",
+          "description": "¿Has oído a hablar el Pair Programming? Descubre todo lo que necesitas saber sobre esta técnica de desarrollo en nuestra próxima sesión. Por petición popular, hemos puesto en marcha este #VirtualCoffee sobre la técnica de desarrollo de software Pair Programming. Con esta sesión, entenderemos que es, cómo se puede llevar a cabo y los beneficios que aporta incorporarlo en nuestro día a día.",
+          "URL": "https://www.youtube.com/watch?v=OnM7W6n8deg",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/20/6dc82643-ee0c-4bcc-9369-006bf64bcecb_pair-es.jpg",
+            "alt": "pair-es.jpg"
+          }
+        },
+        "type": "video",
+        "publishingDate": "2020-07-01"
+      },
+      {
+        "details": {
+          "name": " ¡El loco, loco loco mundo de JavaScript! | Sesión online ",
+          "description": "En esta sesión repasaremos las últimas novedades del cambiante mundo de JavaScript, en concreto las especificaciones ECMAScript 2019 y 2020. ",
+          "URL": "https://www.youtube.com/watch?v=7j-RpGxTdPs",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/20/db8fd6da-7f22-4a16-bd76-c7d221de77ac_loco.jpg",
+            "alt": "loco.jpg"
+          }
+        },
+        "type": "video",
+        "publishingDate": "2020-07-01",
+        "relatedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Dejando fino el Sprint Backlog (con Jorge Turrado)",
+          "description": "En esta sesión hablaremos sobre cómo gestionar de forma óptima el Sprint Backlog para conseguir aportar valor evitando los problemas más comunes ",
+          "URL": "https://www.youtube.com/watch?v=PyxVz8O_MVs",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/20/662ad422-ab5e-41c0-83ff-2bab9f3ac656_dejando-fino-sprint-.jpg",
+            "alt": "dejando-fino-sprint-backlog-ES-16-ABR-1280x660.jpg"
+          }
+        },
+        "type": "video",
+        "publishingDate": "2020-06-01"
+      },
+      {
+        "details": {
+          "name": "Test parametrizados en xUnit con InlineData, ClassData, MemberData ",
+          "description": "En este video Jesús María Escudero y Ander Conal nos enseñan cómo sacar partido a xUnit mediante la creación de test parametrizados utilizando los atributos InlineData, ClassData y MemberData y la clase TheoryData. Esperamos que os ayude a mejorar, aprender y entender. No dudéis en comentar si tenéis cualquier sugerencia o duda.",
+          "URL": "https://www.youtube.com/watch?v=sMdrbIbGwFo",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/20/150951ca-26e6-4b50-bac5-4dbf455d706f_test.jpg",
+            "alt": "test.jpg"
+          }
+        },
+        "type": "video",
+        "publishingDate": "2020-02-01",
+        "relatedCompetences": [
+          {
+            "name": ".NET",
+            "type": "technology"
+          },
+          {
+            "name": ".Net Core",
+            "type": "technology"
+          },
+          {
+            "name": "C#",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "First time with a real Agile, DevOps, XP Team"
+        },
+        "type": "achievement",
+        "publishingDate": "2018-01-01"
+      },
+      {
+        "details": {
+          "name": "First Remote Job"
+        },
+        "type": "achievement",
+        "publishingDate": "2017-08-01"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".Net Core",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cypress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Electron",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jasmine",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Karma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TestingLibrary",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Higher Level Technician on Administration of Networked Computer Systems",
+        "startDate": "2010-09-01",
+        "institution": {
+          "name": "Centro Estudios Mikeldi",
+          "description": "* Implementation and administration of operating systems.\n* Network planning and administration.\n* Hardware fundamentals.\n* Network and Internet services.\n* Web applications implementation.\n* Security and high availability.",
+          "URL": "https://www.mikeldi.com/ciclos-formativos/administracion-de-sistemas-informaticos-en-red/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/19/607ad2a2-e21d-4e3a-90a6-cd28a453f1e1_mikeldi.jpg",
+            "alt": "mikeldi.jpg"
+          }
+        },
+        "finishDate": "2012-06-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Higher Level Technician on Web Applications Development",
+        "startDate": "2014-09-01",
+        "institution": {
+          "name": "Colegio Zabalburu",
+          "description": "Higher Level Training Cycle of 2,000 hours divided into 2 years in which I learn to develop web and desktop applications. The first year focuses on laying a solid foundation in Object Oriented Programming. The second year focuses on J2EE and ASP.NET with C#.",
+          "URL": "https://www.zabalburu.org/courses/daw",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/19/697eda77-24dc-4c63-87c7-5debb8817a32_zabalbuiru.png",
+            "alt": "zabalbuiru.png"
+          }
+        },
+        "finishDate": "2016-06-01",
+        "linkedCompetences": [
+          {
+            "name": ".NET",
+            "type": "technology"
+          },
+          {
+            "name": "AJAX",
+            "type": "technology"
+          },
+          {
+            "name": "C#",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "EJB",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "J2EE",
+            "type": "technology"
+          },
+          {
+            "name": "JPA",
+            "type": "technology"
+          },
+          {
+            "name": "Java",
+            "type": "technology"
+          },
+          {
+            "name": "JavaFX",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MVC",
+            "type": "technology"
+          },
+          {
+            "name": "Oracle",
+            "type": "technology"
+          },
+          {
+            "name": "PL/SQL",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "Struts",
+            "type": "technology"
+          },
+          {
+            "name": "Swing",
+            "type": "technology"
+          },
+          {
+            "name": "UML",
+            "type": "technology"
+          },
+          {
+            "name": "jQuery",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Machine Learning Foundations: A Case Study Approach",
+        "startDate": "2023-04-01",
+        "institution": {
+          "name": "Coursera",
+          "description": "* Identify potential applications of machine learning in practice.  \n* Describe the core differences in analyses enabled by regression, classification, and clustering.\n* Select the appropriate machine learning task for a potential application.  \n* Apply regression, classification, clustering, retrieval, recommender systems, and deep learning.\n* Represent your data as features to serve as input to machine learning models. \n* Assess the model quality in terms of relevant error metrics for each task.\n* Utilize a dataset to fit a model to analyze new data.\n* Build an end-to-end application that uses machine learning at its core.  \n* Implement these techniques in Python.",
+          "URL": "https://www.coursera.org/account/accomplishments/verify/R75PB7U7JVP8",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/19/da9b9264-d365-4394-a53b-d7a1fa88ebe3_coursera.jpg",
+            "alt": "coursera.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Jupyter",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Refactoring de Code Smells a Clean Code: Change Preventers",
+        "startDate": "2022-01-01",
+        "institution": {
+          "name": "Codely ",
+          "description": "🚀 Change Preventers... What will you learn in the course?\n\n    What are Code Smells of the Change Preventers type?\n    Why is the S in SOLID not understood?\n\n↕️ Divergent Change Code Smell: From spaghetti to readable code\n\n    🕵️ Divergent Change: Detection, Problems and Initial State\n    🌱 Split Phase Refactoring: Split Phase Parsing\n    🌾 Split Phase Refactoring: Separate serialization phase\n    🤝 Extract Class Refactoring: Exploiting the potential of composition and polymorphism in each phase\n\n🤔 Real World Learnings on Divergent Change\n\n    🔝 Top 6 Mistakes that lead to Divergent Change\n    🔫 CRUD Applications: Solving Divergent Change leads to Shotgun Surgery Code Smell\n\n🔫 Shotgun Surgery Code Smell\n\n    🧐 Shotgun Surgery: Detection, Problems and Initial State\n    ✋ What NOT to Refactoring (most of the time)\n    🤲 Add Cohesion: Move Method, Move Field, Move Constant\n\n🤔 Real World Learnings about Shotgun Surgery\n\n    🔝 Top 5 mistakes that lead to Shotgun Surgery\n    🚥 Preventing lack of cohesion.\n\n🥓 Parallel Inheritance Hierarchies Code Smell\n\n    🕵️ Problems with code inheritance\n    🔀 How to Get Rid of Harmful Inheritance",
+          "URL": "https://pro.codely.com/library/refactoring-de-code-smells-a-clean-code-change-preventers-70287/210883/about/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/19/43dac7ca-1e6a-447d-bf2b-b2b44218e440_codely.png",
+            "alt": "codely.png"
+          }
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Critical view",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Good presentation skills",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Strategic vision",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/anderconal/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/anderconal",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/anderconal",
+          "type": "twitter"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": ".Net Core",
+          "type": "technology"
+        },
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
+          "name": "C#",
+          "type": "technology"
+        },
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "Cypress",
+          "type": "technology"
+        },
+        {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "Electron",
+          "type": "technology"
+        },
+        {
+          "name": "Express",
+          "type": "technology"
+        },
+        {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "Jamstack",
+          "type": "technology"
+        },
+        {
+          "name": "Jasmine",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Karma",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "Playwright",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Sass",
+          "type": "technology"
+        },
+        {
+          "name": "TestingLibrary",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        },
+        {
+          "name": "VanillaJS",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Developer Evangelist & Advocate",
+        "Engineering Management",
+        "Frontend Developer",
+        "Full-stack Developer",
+        "Tech Lead",
+        "Technical Writer"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent",
+        "freelance"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": ".Net Core",
+        "type": "technology"
+      },
+      {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
+        "name": "Azure",
+        "type": "technology"
+      },
+      {
+        "name": "TestingLibrary",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "I enjoy solving problems—kind of like the Wolf from Pulp Fiction. When something’s broken, I’m the guy who steps in, figures it out, and makes it work, no matter the challenge.\n\nI'm currently deciding whether to focus more on management or return to a more technical role. Over time, I've naturally taken on more leadership roles—building teams, defining the technical vision, and setting strategy—but I still enjoy getting hands-on with technical tasks.\n\nThe balance between leadership and technical work has changed over time. Some days it’s 40/60, other times 0/100 or 20/80, depending on the company’s needs, the team's needs and the product. I see it as a strength—different situations require different levels of involvement.\n\nI value flexibility, async communication, and remote work. I value results, not hours. Becoming a father has made these things even more important.\n\nI enjoy working with people who value Agile, DevOps, or XP and where I can keep learning.\n\nI've been into AI and remote work for years, even before they were popular. When it comes to AI, I’m ready to contribute in areas like management, operations, or a mix of both, helping drive strategy and impact.\n\nI’m a product-driven software engineer ⚡, with experience across the entire product lifecycle.\n\n✔ Generalist? Yes ☝—I handle everything from gathering requirements, brainstorming, and planning to architecture, coding, deployment, and monitoring. In short, the full product lifecycle.\n\n✔ Specialist? Also ✌—I have deep expertise in Frontend, but I’m also comfortable with Backend, Cloud infrastructure, and CI/CD pipelines to make sure everything works smoothly.",
+    "goodPractices": "I enjoy solving problems—kind of like Mr. Miyagi from Karate Kid. When something’s broken, I’m not here to overcomplicate things. I just give it a good \"dar cera, pulir cera\", get to work, and fix it.\n\nI don’t believe in hiding behind complexity or buzzwords. In my approach, simplicity always wins. It's not about the latest framework or the newest trend—it's about what works, what’s clear, and what gets results. Pragmatism is key, but the real kind, not the one you read about in LinkedIn posts. I focus on delivering value, not just ticking boxes.\n\nHere are some key principles I live by:\n\n📌 **Testing Strategy & TDD**: I’ve built testing strategies, frameworks, and adapted TDD to meet the team’s maturity and project needs. But it's not just about coding tests—it’s about building a culture where testing and quality are everyone’s responsibility. No shortcuts.\n\n🚀 **Engineering Leadership & Decision-Making**: I help teams make decisions that matter, balancing speed with long-term impact and always keeping the cost-to-value ratio in mind. It's about delivering features quickly, getting real user feedback early, and making sure the product keeps evolving based on that. Forget theory—let’s focus on what really works. I work with engineers on design patterns and clean code, but I prioritize progress over perfection. Iteration is key, and small, continuous steps get us closer to delivering real value.\n\n🔄 **Agile & Continuous Delivery**: I focus on fast iterations, baby steps that deliver value early and often. With each release, we gather feedback quickly from the users to steer the next iteration. This feedback loop allows us to adjust course quickly, making sure we stay aligned with what the customer really needs. It’s about testing and refining, not waiting for the “perfect” solution.\n\n🛠 **Simplicity as a Core Engineering Principle**: KISS and YAGNI aren’t just buzzwords for me—they’re the way I work. Solutions need to be lightweight, maintainable, and easy to evolve. I avoid overengineering both in code and in process, because we all know how that turns into a mess down the line. Keep it simple, keep it moving.\n\n⚡ **Refactoring & Technical Debt Management**: Whether it’s a greenfield or legacy codebase, I’ve led refactoring initiatives.. I’ve trained teams to identify and address technical debt—not because it's trendy, but because it’s essential for sustainable growth. We build systems that are practical, effective, and that can evolve without falling apart.\n\n🧩 **Contextual Leadership & Adaptability**: Leadership isn't a one-size-fits-all approach. Some engineers need mentoring, others need autonomy. I adjust based on the team and the situation, always aligning efforts with the product and business strategy. No one gets left behind, but we don’t waste time either.\n\nIn summary, I focus on results—real ones. I balance technical expertise with leadership, staying committed to simplicity as the foundation of everything I do. I build maintainable software, while ensuring that teams work efficiently, deliver value quickly, and always improve.",
+    "projects": [
+      {
+        "name": "Frontend Technical Challenge – Best Practices & Architecture 🚀"
+      },
+      {
+        "name": "testing-library-101-ts-workshop"
+      },
+      {
+        "name": "testing-library-101-workshop"
+      }
+    ]
+  }
+}
